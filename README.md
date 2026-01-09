@@ -458,9 +458,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Your Name**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-- Email: your.email@example.com
+- GitHub: [https://github.com/bhavanareddy19](https://github.com/bhavanareddy19)
+- LinkedIn: [https://www.linkedin.com/in/bhavanareddy19](https://www.linkedin.com/in/bhavanareddy19)
+- Email: bhavana.vippala@colorado.edu
 
 ---
 
